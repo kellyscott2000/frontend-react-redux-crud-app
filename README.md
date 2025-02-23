@@ -8,15 +8,15 @@ The react team recommends using vite or Next.js. For this project, I chose vite.
 
 ### instructions for running the app locally
 1. clone the repository
-git clone https://github.com/VickyKunmi/frontend-quiz-crud-app.git
+"git clone https://github.com/VickyKunmi/frontend-quiz-crud-app.git"
 
 2. Navigate to the project directory
-cd frontend-quiz-crud-app
+"cd frontend-quiz-crud-app"
 
 3. Install dependencies
-npm install
+"npm install"
 
 4. Start the development Server
-npm run dev
+"npm run dev"
 
 #### The app will start at http://localhost:5173/ (the default vite port)
